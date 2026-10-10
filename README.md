@@ -17,7 +17,7 @@ When the internet first began spreading widely, everyone shared the same dream: 
 uf2pn7panaiu1w8toi9j59q3w454wnqihjc5rixt4cd4xgcvmdby93ar5x5vvzp.land
 - Generated: 2026-09-12 03:58 UTC
 - Agent: NEORT
-- Owner:
+- Owner: Anonymous
 - Developed: exonemo
 
 ## Website
